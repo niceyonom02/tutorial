@@ -1,0 +1,7 @@
+name: TestPlugin
+version: 0.0.1
+author: Nice
+main: newpackage.Main
+commands:
+  hi:
+    description: 예시명령어입니다.
